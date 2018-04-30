@@ -1,0 +1,585 @@
+alpha waves
+altruism
+amphetamines
+amygdala
+anorexia nervosa
+anterograde amnesia
+antianxiety drugs
+antidepressant drugs
+antipsychotic drugs
+antisocial personality disorder
+anxiety disorders
+aphasia
+applied research
+aptitude test
+assimilation
+association areas
+associative learning
+attachment
+attention deficit hyperactivity disorder (ADHD)
+attitude
+attribution theory
+audition
+absolute threshold
+accommodation
+accommodation
+achievement motivation
+achievement test
+acquisition
+action potential
+active listening
+adaptation-level phenomenon
+addiction
+adolescence
+adrenal [ah-DREEN-el] glands
+aerobic exercise
+aggression
+alcohol dependence
+algorithm
+biopsychosocial approach
+bipolar disorder
+blind spot
+blindsight
+bottom-up processing
+brainstem
+Broca's area
+bulimia nervosa
+bystander effect
+Cannon-Bard theory
+case study
+catharsis
+central nervous system (CNS)
+central route persuasion
+cerebellum [sehr-uh-BELL-um]
+cerebral [seh-REE-bruhl] cortex
+change blindness
+chromosomes
+chunking
+circadian [ser-KAY-dee-an] rhythm
+classical conditioning
+client-centered therapy
+autism
+automatic processing
+autonomic [aw-tuh-NAHM-ik] nervous system (ANS)
+availability heuristic
+aversive conditioning
+axon
+babbling stage
+barbiturates
+basal metabolic rate
+basic research
+basic trust
+behavior genetics
+behavior therapy
+behaviorism
+belief perseverance
+bing-eating disorder
+binocular cues
+biological perspective
+biomedical therapy
+conditioned reinforcer
+conditioned response (CR)
+conditioned stimulus (CS)
+conduction
+cones
+confirmation biase
+conflict
+conformity
+confounding variable
+consciousness
+conservation
+content validity
+continuous reinforcement
+control group
+coping
+coronary heart disease
+corpus callosum [KOR-pus kah-LOW-sum]
+correlation
+correlation coefficient
+counseling psychology
+counterconditioning
+clinical psychology
+cochlea [KOHK-lee-uh]
+cochlear implant
+cognition
+cognitive dissonance theory
+cognitive learning
+cognitive map
+cognitive neuroscience
+cognitive therapy
+cognitive-behavioral therapy
+cohort
+collective unconscious
+collectivism
+color constancy
+community psychology
+companionate love
+complementary and alternative medicine (CAM)
+concept
+concrete operational stage
+dissociative identity disorder (DID)
+DNA (deoxyribonucleic acid)
+double-blind procedure
+Down syndrome
+dream
+drive-reduction theory
+DSM-IV-TR
+dual processing
+echoic memory
+eclectic approach
+Ecstasy (MDMA)
+effortful processing
+ego
+egocentrism
+electroconvulsive therapy (ECT)
+electroencephalogram (EEG)
+embodied cognition
+creativity
+critical period
+critical thinking
+cross-sectional study
+crystallized intelligence
+culture
+debriefing
+deep rocessing
+defense mechanisms
+deindividuation
+déjà vu
+delta waves
+delusions
+dendrites
+dependent variable
+depressants
+depth perception
+developmental psychology
+difference threshold
+discrimination
+discrimination
+dissociation
+dissociative disorders
+extinction
+extrasensory perception (ESP)
+extrinsic motivation
+facial feedback effect
+factor analysis
+family therapy
+feature detectors
+feel-good, do-good phenomenon
+fetal alcohol syndrome (FAS)
+fetus
+figure-ground
+fixation
+fixed-interval
+fixed-ratio schedule
+flashbulb memory
+flow
+fluid intelligence
+fMRI (functional MRI)
+foot-in-the-door phenomenon
+formal operational stage
+embryo
+emerging adulthood
+emotion
+emotional intelligence
+emotion-focused coping
+empirically derived test
+encoding
+endocrine [EN-duh-krin] system
+endorphins [en-DOR-fins]
+environment
+epigenetics
+equity
+estrogens
+evidence-based practice
+evolutionary psychology
+experiment
+experimental group
+explicit memory
+exposure therapies
+external locus of control
+glial cells (glia)
+glucose
+grammar
+GRIT
+group polarization
+group therapy
+grouping
+groupthink
+habituation
+hallucinations
+hallucinogens psychedelic ("mind-manifesting") drugs
+health psychology
+heritability
+heuristic
+hierarchy of needs
+higher-order conditioning
+hindsight bias
+hippocampus
+fovea
+framing
+fraternal twins
+free association
+frequency
+frequency theory
+frontal lobes
+frustration-aggression principle
+fundamental attribution error
+gate-control theory
+gender
+gender identity
+gender role
+gender-typing
+general adaptation syndrome (GAS)
+general intelligence (g)
+generalization
+generalized anxiety disorder
+industrial-organizational (I/O) psychology
+informational social influence
+informed consent
+ingroup
+ingroup bias
+inner ear
+insight
+insight therapies
+insomnia
+instinct
+intellectual disability
+intelligence
+intelligence quotient (IQ)
+intelligence test
+intensity
+interaction
+internal locus of control
+interneurons
+interpretation
+intimacy
+intrinsic motivation
+homeostasis
+hormones
+hue
+human factors
+humanistic psychology
+humanistic theories
+hypnosis
+hypothalamus [hi-po-THAL-uh-muss]
+hypothesis
+iconic memory
+id
+identical twins
+identification
+identity
+implicit memory
+imprinting
+inattentional blindness
+incentive
+independent variable
+individualism
+lymphocytes
+major depressive disorder
+mania
+manifest
+maturation
+mean
+median
+medical model
+medulla [muh-DUL-uh]
+memory
+menarche [meh-NAR-key]
+menopause
+mental age
+mental set
+mere exposure effect
+meta-analysis
+methamphetamine
+middle ear
+Minnesota Multiphasic Personality Inventory (MMPI)
+intuition
+iris
+James-Lange theory
+just-world phenomenon
+kinesthesis [kin-ehs-THEE-sehs]
+language
+latent content
+latent learning
+law of effect
+learned helplessness
+learning
+lens
+lesion [LEE-zhuhn]
+levels of analysis
+limbic system
+linguistic determinism
+lobotomy
+longitudinal study
+long-term memory
+long-term potentiation (LTP)
+LSD
+near-death experience
+negative reinforcement
+nerves
+nervous system
+neurogenesis
+neuron
+neurotransmitters
+neutral stimulus (NS)
+nicotine
+night terrors
+norm
+normal curve
+normative social influence
+object permanence
+observational learning
+obsessive-compulsive disorder (OCD)
+occipital [ahk-SIP-uh-tuhl] lobes
+Oedipus [ED-uh-puss] complex
+one-word stage
+operant behavior
+mirror neurons
+mirror-image perceptions
+misinformation effect
+mnemonics [nih-MON-iks]
+mode
+modeling
+molecular genetics
+monocular cues
+mood disorders
+mood-congruent memory
+morpheme
+motivation
+motor cortex
+motor neurons
+MRI (magnetic resonance imaging)
+mutation
+myelin [MY-uh-lin] sheath
+narcissism
+narcolepsy
+natural selection
+naturalistic observation
+nature-nurture issue
+perceptual constancy
+perceptual set
+peripheral nervous system (PNS)
+peripheral route persuasion
+personal control
+personality disorders
+personality inventory
+personality
+personnel psychology
+PET (positron emission tomography)
+phi phenomenon
+phobia
+phoneme
+physical dependence
+pitch
+pituitary gland
+place theory
+placebo [pluh-SEE-bo; Latin for "I shall please"]
+plasticity
+polygraph
+population
+operant chamber
+operant conditioning
+operational definition
+opiates
+opponent-process theory
+optic nerve
+organizational psychology
+other-race effect
+outgroup
+overconfidence
+panic disorder
+parallel processing
+parapsychology
+parasympathetic nervous system
+parietal [puh-RYE-uh-tuhl] lobes
+partial (intermittent) reinforcement
+passionate love
+perception
+perceptual adaptation
+psychoanalysis
+psychodynamic theories
+psychodynamic therapy
+psychological dependence
+psychological disorder
+psychology
+psychoneuroimmunology
+psychopharmacology
+psychophysics
+psychophysiological illness
+psychosexual stages
+psychosis
+psychosurgery
+psychotherapy
+puberty
+punishment
+pupil
+random assignment
+random sample
+range
+positive psychology
+positive reinforcement
+posthypnotic suggestion
+post-traumatic growth
+post-traumatic stress disorder (PTSD)
+predictive validity
+prejudice
+preoperational stage
+primary reinforcer
+primary sex characteristics
+priming
+proactive interference
+problem-focused coping
+projective test
+prosocial behavior
+prototype
+psychiatry
+psychoactive drug
+retina
+retinal disparity
+retrieval
+retroactive interference
+retrograde amnesia
+reuptake
+rods
+role
+Rorschach inkblot test
+savant syndrome
+scapegoat theory
+scatterplot
+schema
+schizophrenia
+secondary sex characteristics
+selective attention
+self
+self-actualization
+self-concept
+self-control
+self-disclosure
+self-esteem
+rational-emotive behavior therapy (REBT)
+recall
+reciprocal determinism
+reciprocity norm
+recognition
+reflex
+refractory period
+regression
+reinforcement
+reinforcement schedule
+relative deprivation
+relearning
+reliability
+REM rebound
+REM sleep
+repetitive transcranial magnetic stimulation (rTMS)
+replication
+repression
+resilience
+resistance
+respondent behavior
+reticular formation
+social exchange theory
+social facilitation
+social identity
+social leadership
+social learning theory
+social loafing
+social psychology
+social script
+social trap
+social-cognitive perspective
+social-responsibility norm
+somatic nervous system
+source amnesia
+spacing effect
+split brain
+spontaneous recovery
+spotlight effect
+SQ3R
+standard deviation
+standardization
+Stanford-Binet
+statistical significance
+self-serving bias
+sensation
+sensorimotor stage
+sensorineural hearing loss
+sensory adaptation
+sensory cortex
+sensory interaction
+sensory memory
+sensory neurons
+serial position effect
+set point
+sexual disorder
+sexual orientation
+sexual response cycle
+shallow processing
+shaping
+short-term memory
+signal detection theory
+sleep
+sleep apnea
+social clock
+teratogens
+terror-management theory
+testing effect
+testosterone
+thalamus [THAL-uh-muss]
+THC
+theory
+theory of mind
+therapeutic alliance
+threshold
+token economy
+tolerance
+top-down processing
+trait
+transduction
+transference
+transgender
+two-factor theory
+two-word stage
+stereotype
+stereotype threat
+stimulants
+stimulus
+storage
+stranger anxiety
+stress
+structured interviews
+subjective well-being
+subliminal
+superego
+superordinate goals
+survey
+sympathetic nervous system
+synapse [SIN-aps]
+systematic desensitization
+task leadership
+telegraphic speech
+temperament
+temporal lobes
+tend and befriend
+Type A
+Type B
+unconditional positive regard
+unconditioned response (UR)
+unconditioned stimulus (US)
+unconscious
+validity
+variable-interval schedule
+variable-ratio schedule
+vestibular sense
+virtual reality exposure therapy
+visual cliff
+wavelength
+Weber's law
+Wechsler Adult Intelligence Scale (WAIS)
+Wernicke's area
+withdrawal
+working memory
+X chromosome
+Y chromosome
+Young-Helmholtz trichromatic (three-color) theory
+zygote
