@@ -43,6 +43,7 @@ def search_terms(): #Allows for the input of a search parameter and displays mos
     global term_definition
     global term_format
     global terms
+    global term_format_long
 
 
     end_chars = [' ', '.', ')', ';', '-', "'", '\n', ':']
@@ -122,7 +123,8 @@ def search_terms(): #Allows for the input of a search parameter and displays mos
                     else:
                         cprint('Best Results:{}Other Possible Results'.format(' ' * 77), color='magenta', attrs=['bold'])
                         while (result_format_count < max([len(term_loc_best), len(term_loc_rest)])):
-                            
+                            spaces_till_next_term = 0
+                            print(term_format_long[loc])
                 else:
                     cprint('Best Results:', color='magenta', attrs=['bold'])                #Prints best results: indexes from term_loc_best
                     for loc in term_loc_best:
@@ -204,6 +206,7 @@ def main():
     global term_definition
     global term_format
     global terms
+    global term_format_long
 
 
     ex_terms = []
@@ -236,6 +239,8 @@ def main():
             term_format.append('')
             terms_array_count += 1
         term_count += 1
+
+
     #term_definition.sort()    #Alphabetizes Terms-Definition list
     #terms.sort()    #Alphabetizes Terms list
 
@@ -246,7 +251,13 @@ def main():
         element = element.replace(terms[term_format_count], colored(terms[term_format_count], color='yellow', attrs=['bold']))
         term_format[term_format_count] = element
         term_format_count += 1
+
+
+    term_format_long = []
     
+    for element in term_format:     #Creates array for printing formatted results when window enlarged
+        term_format_long.append(element.splitlines())
+
 
     try:
         menu()  #Loads menu interface
