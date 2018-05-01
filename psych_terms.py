@@ -110,21 +110,35 @@ def search_terms(): #Allows for the input of a search parameter and displays mos
                 result_num_2 = len(term_loc_best) + len(term_loc_rest)
                 cprint('\n {} Results Found\n'.format(result_num_2), color='green', attrs=['bold'])
 
-                result_format_count = 0
                 width = get_window_size()   #Adjusts Result Printing Depending on Window Size
                 if (term_loc_rest != []):
                     if (width < 180):
                         cprint('Best Results:', color='magenta', attrs=['bold'])                #Prints best results: indexes from term_loc_best
                         for loc in term_loc_best:
                             print(term_format[loc])
+
                         cprint('\nOther Possible Results:', color='magenta', attrs=['bold'])    #Prints all other results: indexes from term_loc_rest
                         for loc in term_loc_rest:
                             print(term_format[loc])
                     else:
+                        result_format_count = 0
+                        best_results = []
+                        other_results = []
+
+                        for loc in term_loc_best:
+                            for element in term_format_long[loc]
+                                best_results.append(element)
+
+                        for loc in term_loc_rest:
+                            for element in term_format_long[loc]
+                                other_results.append(element)
+
                         cprint('Best Results:{}Other Possible Results'.format(' ' * 77), color='magenta', attrs=['bold'])
+
                         while (result_format_count < max([len(term_loc_best), len(term_loc_rest)])):
                             spaces_till_next_term = 0
-                            print(term_format_long[loc])
+                            print(best_results[result_format_count])
+                            result_format_count += 1
                 else:
                     cprint('Best Results:', color='magenta', attrs=['bold'])                #Prints best results: indexes from term_loc_best
                     for loc in term_loc_best:
