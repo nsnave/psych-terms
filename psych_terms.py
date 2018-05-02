@@ -19,7 +19,7 @@ def get_window_size():      #Returns number of columns in window
 
 def print_title():      #Prints the main menu page
     print(chr(27) + "[2J")  #Clears the window
-    print(' Press Ctrl+C at Anytime to Return to Menu')
+    print(' Press Ctrl+C at Anytime to Return to the Main Menu')
     width = get_window_size()
     if (width < 180):       #Checks for window size, i.e. number of columns, and formats accordingly
         cprint(
@@ -47,8 +47,8 @@ def print_title():      #Prints the main menu page
 
         cprint(
         '''     
-        1. View All Terms          3. Search Terms
-        2. View Terms by Chapter   4. View Random Term
+        1. View Terms Alphabetically     3. Search Terms
+        2. View Terms by Chapter         4. View Random Term
         ''', color='magenta', attrs=['bold'])  #Prints Options
     else:
         cprint(
@@ -69,13 +69,13 @@ def print_title():      #Prints the main menu page
 
         cprint(
         '''     
-        1. View All Terms       2. View Terms by Chapter       3. Search Terms       4. View Random Term
+        1. View Terms Alphabetically       2. View Terms by Chapter       3. Search Terms       4. View Random Term
         ''', color='magenta', attrs=['bold'])  #Prints Options
 
 
 
 def print_masthead():
-    print(' Press Ctrl+C at Anytime to Return to Menu')
+    print(' Press Ctrl+C at Anytime to Return to the Main Menu')
     cprint(
     '''
     ______  ______  _     _  _____  _     _    _________ ______ ______  _     _ ______
