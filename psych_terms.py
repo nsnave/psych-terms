@@ -1,3 +1,9 @@
+#Credentials:
+#   Program written by Aidan Evans
+#   Terms and Definitions from Myers Psychology 10th Edition, By: David G. Myers
+
+
+
 import os
 import shutil
 import colorama
