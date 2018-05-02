@@ -1,0 +1,53 @@
+biological perspective
+neuron
+dendrites
+axon
+myelin [MY-uh-lin] sheath
+action potential
+threshold
+synapse [SIN-aps]
+neurotransmitters
+reuptake
+endorphins [en-DOR-fins]
+nervous system
+central nervous system (CNS)
+peripheral nervous system (PNS)
+nerves
+sensory neurons
+motor neurons
+interneurons
+somatic nervous system
+autonomic [aw-tuh-NAHM-ik] nervous system (ANS)
+sympathetic nervous system
+parasympathetic nervous system
+reflex
+endocrine [EN-duh-krin] system
+hormones
+adrenal [ah-DREEN-el] glands
+pituitary gland
+lesion [LEE-zhuhn]
+electroencephalogram (EEG)
+PET (positron emission tomography) scan
+MRI (magnetic resonance imaging)
+fMRI (functional magnetic resonance imaging)
+brainstem
+medulla [muh-DUL-uh]
+thalamus [THAL-uh-muss]
+reticular formation
+cerebellum [sehr-uh-BELL-um]
+limbic system
+amygdala [uh-MIG-duh-la]
+hypothalamus [hi-po-THAL-uh-muss]
+cerebral [seh-REE-bruhl] cortex
+glial cells (glia)
+frontal lobes
+parietal [puh-RYE-uh-tuhl] lobes
+occipital [ahk-SIP-uh-tuhl] lobes
+temporal lobes
+motor cortex
+sensory cortex
+association areas
+plasticity
+neurogenesis
+corpus callosum [KOR-pus kah-LOW-sum]
+split brain

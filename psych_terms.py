@@ -44,6 +44,7 @@ def search_terms(): #Allows for the input of a search parameter and displays mos
     global term_format
     global terms
     global term_format_long
+    global term_definition_long
 
 
     end_chars = [' ', '.', ')', ';', '-', "'", '\n', ':']
@@ -123,21 +124,37 @@ def search_terms(): #Allows for the input of a search parameter and displays mos
                     else:
                         result_format_count = 0
                         best_results = []
+                        best_results_for_spaces = []
                         other_results = []
 
                         for loc in term_loc_best:
-                            for element in term_format_long[loc]
+                            for element in term_format_long[loc]:
                                 best_results.append(element)
+                            for element in term_definition_long[loc]:
+                                best_results_for_spaces.append(element)
 
                         for loc in term_loc_rest:
-                            for element in term_format_long[loc]
+                            for element in term_format_long[loc]:
                                 other_results.append(element)
 
                         cprint('Best Results:{}Other Possible Results'.format(' ' * 77), color='magenta', attrs=['bold'])
 
-                        while (result_format_count < max([len(term_loc_best), len(term_loc_rest)])):
+                        while (result_format_count < max([len(best_results), len(other_results)])):
                             spaces_till_next_term = 0
-                            print(best_results[result_format_count])
+                            try:
+                                spaces_till_next_term = 90 - len(best_results_for_spaces[result_format_count])
+                                print('{}{}{}'.format(best_results[result_format_count], ' ' * spaces_till_next_term, other_results[result_format_count]))
+                            except IndexError:
+                                try:
+                                    test = best_results[result_format_count]
+                                except IndexError:
+                                    best_results.append('')
+                                    best_results_for_spaces.append('')
+                                try:
+                                    test = other_results[result_format_count]
+                                except IndexError:
+                                    other_results.append('')
+                                result_format_count -= 1
                             result_format_count += 1
                 else:
                     cprint('Best Results:', color='magenta', attrs=['bold'])                #Prints best results: indexes from term_loc_best
@@ -221,6 +238,7 @@ def main():
     global term_format
     global terms
     global term_format_long
+    global term_definition_long
 
 
     ex_terms = []
@@ -255,8 +273,9 @@ def main():
         term_count += 1
 
 
-    #term_definition.sort()    #Alphabetizes Terms-Definition list
-    #terms.sort()    #Alphabetizes Terms list
+    term_definition.sort()    #Alphabetizes Terms-Definition list
+    term_format.sort()  #Alphabetizes term_format
+    terms.sort()    #Alphabetizes Terms list
 
 
     term_format_count = 0
@@ -273,9 +292,19 @@ def main():
         term_format_long.append(element.splitlines())
 
 
+    term_definition_long = []
+
+    for element in term_definition:     #Creates arrary for calculating spaces for formatted results when window enlarged
+        term_definition_long.append(element.splitlines())
+
+
     try:
         menu()  #Loads menu interface
     except KeyboardInterrupt:
-        menu()  #Loads menu when Ctrl+C pressed
+        try:
+            menu()  #Loads menu when Ctrl+C pressed
+        except KeyboardInterrupt:
+            print('\n')
+            quit()
 
 main()
