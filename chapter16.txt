@@ -31,8 +31,7 @@ antipsychotic drugs
 antianxiety drugs
 antidepressant drugs
 electroconvulsive therapy (ECT)
-repetitive transcranial magnetic
-stimulation (rTMS)
+repetitive transcranial magnetic stimulation (rTMS)
 psychosurgery
 lobotomy
 resilience

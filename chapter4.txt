@@ -27,5 +27,5 @@ role
 gender role
 social learning theory
 gender identity
-gender typing
+gender-typing
 transgender

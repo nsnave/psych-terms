@@ -323,7 +323,7 @@ correlation a measure of the extent to which two factors vary together,
 and thus of how well either factor predicts the other. 
 
 correlation coefficient a statistical index of the relationship between
-two things (from 1 to +1). 
+two things (from -1 to +1). 
 
 counseling psychology a branch of psychology that assists people with
 problems in living (often related to school, work, or marriage) and in
@@ -607,7 +607,7 @@ of one's skills.
 fluid intelligence our ability to reason speedily and abstractly; tends to
 decrease during late adulthood. 
 
-fMRI (functional MRI) a technique for revealing bloodflow and,
+fMRI (functional magnetic resonance imaging) a technique for revealing bloodflow and,
 therefore, brain activity by comparing successive MRI scans. fMRI
 scans show brain function. 
 
@@ -1296,7 +1296,7 @@ and controls other endocrine glands.
 place theory in hearing, the theory that links the pitch we hear with
 the place where the cochlea's membrane is stimulated. 
 
-placebo [pluh-SEE-bo; Latin for "I shall please"] effect experimental
+placebo [pluh-SEE-bo] effect Latin for "I shall please;" experimental
 results caused by expectations alone; any effect on behavior caused
 by the administration of an inert substance or condition, which the
 recipient assumes is an active agent. 
@@ -2028,3 +2028,13 @@ combination, can produce the perception of any color.
 
 zygote the fertilized egg; it enters a 2-week period of rapid cell division
 and develops into an embryo. 
+
+genes the biochemical units of heredity that make up the chromosomes;
+a segment of DNA capable of synthesizing a protein.
+
+genome the complete instructions for making an organism, consisting
+of all the genetic material in that organism’s chromosomes.
+
+gestalt an organized whole. Gestalt psychologists emphasized our
+tendency to integrate pieces of information into meaningful
+wholes.

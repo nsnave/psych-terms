@@ -1,7 +1,7 @@
 alpha waves
 altruism
 amphetamines
-amygdala
+amygdala [uh-MIG-duh-la]
 anorexia nervosa
 anterograde amnesia
 antianxiety drugs
@@ -80,9 +80,9 @@ biomedical therapy
 conditioned reinforcer
 conditioned response (CR)
 conditioned stimulus (CS)
-conduction
+conduction hearing loss
 cones
-confirmation biase
+confirmation bias
 conflict
 conformity
 confounding variable
@@ -141,7 +141,7 @@ cross-sectional study
 crystallized intelligence
 culture
 debriefing
-deep rocessing
+deep processing
 defense mechanisms
 deindividuation
 déjà vu
@@ -169,12 +169,12 @@ fetal alcohol syndrome (FAS)
 fetus
 figure-ground
 fixation
-fixed-interval
+fixed-interval schedule
 fixed-ratio schedule
 flashbulb memory
 flow
 fluid intelligence
-fMRI (functional MRI)
+fMRI (functional magnetic resonance imaging)
 foot-in-the-door phenomenon
 formal operational stage
 embryo
@@ -207,7 +207,7 @@ grouping
 groupthink
 habituation
 hallucinations
-hallucinogens psychedelic ("mind-manifesting") drugs
+hallucinogens
 health psychology
 heritability
 heuristic
@@ -257,7 +257,7 @@ intrinsic motivation
 homeostasis
 hormones
 hue
-human factors
+human factors psychology
 humanistic psychology
 humanistic theories
 hypnosis
@@ -277,7 +277,7 @@ individualism
 lymphocytes
 major depressive disorder
 mania
-manifest
+manifest content
 maturation
 mean
 median
@@ -365,7 +365,7 @@ personality disorders
 personality inventory
 personality
 personnel psychology
-PET (positron emission tomography)
+PET (positron emission tomography) scan
 phi phenomenon
 phobia
 phoneme
@@ -373,7 +373,7 @@ physical dependence
 pitch
 pituitary gland
 place theory
-placebo [pluh-SEE-bo; Latin for "I shall please"]
+placebo [pluh-SEE-bo] effect
 plasticity
 polygraph
 population
@@ -463,7 +463,7 @@ reciprocity norm
 recognition
 reflex
 refractory period
-regression
+regression toward the mean
 reinforcement
 reinforcement schedule
 relative deprivation
@@ -583,3 +583,6 @@ X chromosome
 Y chromosome
 Young-Helmholtz trichromatic (three-color) theory
 zygote
+genes
+genome
+gestalt

@@ -17,7 +17,7 @@ experimental group
 control group
 random assignment
 double-blind procedure
-placebo effect
+placebo [pluh-SEE-bo] effect
 independent variable
 confounding variable
 dependent variable
