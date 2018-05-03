@@ -514,4 +514,7 @@ def main():
         print('\n')
         quit()
 
-main()
+
+
+if __name__ == '__main__':
+    main()
