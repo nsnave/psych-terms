@@ -300,13 +300,14 @@ def search_terms(): #Allows for the input of a search parameter and displays mos
                         term_loc_rest.remove(loc)
 
                 result_num_2 = len(term_loc_best) + len(term_loc_rest)
-                cprint('\n {} Results Found\n'.format(result_num_2), color='green', attrs=['bold'])
 
                 width = get_window_size()   #Adjusts Result Printing Depending on Window Size
                 if (term_loc_rest != []):
 
                     print(chr(27) + "[2J")
                     print_masthead()
+
+                    cprint('\n {} Results Found\n'.format(result_num_2), color='green', attrs=['bold']) #Prints Number of Results Displayed
 
                     print('Search Results for "{}"'.format(colored(search, color='green', attrs=['bold'])))
 
@@ -356,6 +357,8 @@ def search_terms(): #Allows for the input of a search parameter and displays mos
                 else:
                     print(chr(27) + "[2J")
                     print_masthead()
+                    
+                    cprint('\n {} Results Found\n'.format(result_num_2), color='green', attrs=['bold']) #Prints Number of Results Displayed
 
                     print('Search Results for "{}"'.format(colored(search, color='green', attrs=['bold'])))
 
