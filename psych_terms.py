@@ -117,10 +117,14 @@ def all_terms():    #Displays the terms in alphabetical order
             if (term[0:len(starts_with)].lower() == starts_with):   #if the term starts with the inputed text
                 to_print.append(term_format[terms.index(term)])
 
+        print(chr(27) + "[2J")
+        print_masthead()
+
         if (to_print != []):
             to_print.sort()     #Sorts the desired output elements alphabetically
 
-            cprint('\nResults', color='magenta', attrs=['bold'])
+            print('\nSearch For "{}"'.format(colored(starts_with, color='green', attrs=['bold'])))
+            cprint('Search Results:', color='magenta', attrs=['bold'])
             for element in to_print:    #Prints outputed terms
                 print(element)
             print('\n')
@@ -198,9 +202,16 @@ def by_chapter(err):   #Allows the terms to be sorted and viewed by chapter
             err = 0
             while (chapter_index <= 16 and continue_input_check == 1):    #Checks to see if input is correct and prints results
                 if (chapter_index == int(chapter_num)):
+
                     print(chr(27) + "[2J")
                     print_masthead()
-                    cprint('\nResults:', color='magenta', attrs=['bold'])
+
+                    if (chapter_index == 0):
+                        title = 'Prologue'
+                    else:
+                        title = 'Chapter {}'.format(chapter_index)
+
+                    cprint('\n{} Terms:'.format(title), color='magenta', attrs=['bold'])
 
                     got_results = 1
                     term_loc = []
@@ -297,6 +308,12 @@ def search_terms(): #Allows for the input of a search parameter and displays mos
 
                 width = get_window_size()   #Adjusts Result Printing Depending on Window Size
                 if (term_loc_rest != []):
+
+                    print(chr(27) + "[2J")
+                    print_masthead()
+
+                    print('Search Results for "{}"'.format(colored(search, color='green', attrs=['bold'])))
+
                     if (width < 180):   #If window small
                         cprint('Best Results:', color='magenta', attrs=['bold'])                #Prints best results: indexes from term_loc_best
                         for loc in term_loc_best:
@@ -341,6 +358,11 @@ def search_terms(): #Allows for the input of a search parameter and displays mos
                                 result_format_count -= 1
                             result_format_count += 1
                 else:
+                    print(chr(27) + "[2J")
+                    print_masthead()
+
+                    print('Search Results for "{}"'.format(colored(search, color='green', attrs=['bold'])))
+
                     cprint('Best Results:', color='magenta', attrs=['bold'])                #Prints best results: indexes from term_loc_best
                     for loc in term_loc_best:
                         print(term_format[loc])
