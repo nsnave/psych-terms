@@ -42,7 +42,7 @@ def print_title():      #Prints the main menu page
                 |        |_______    |________|   |    \_/    |  |_______
                 |        |           |      \     |           |          |
                 |        |________   |       \    |           |  ________|
-     {}    {}
+     {}  {}
         '''.format(colored('Words and Definitions From Myers Psychology 10th Ed.', color='white'), colored('Made By: Aidan Evans', color='green', attrs=['bold'])), 
             color='cyan', 
             attrs=['bold'])  #Prints Title
@@ -80,12 +80,12 @@ def print_masthead():
     print(' Press Ctrl+C at Anytime to Return to the Main Menu')
     cprint(
     '''
-    _____  ______  _     _  _____  _    _    _______ ______ _____  _    _ _____
-    |    | |        \   /  |       |    |       |    |      |    | |\  /| |
-    |____| |____     \_/   |       |____|       |    |____  |____| | \/ | |___
-    |           |     |    |       |    |       |    |      |   \  |    |     |
-    |      _____|     |    |_____  |    |       |    |_____ |    \ |    | ____|
-                                                         {}
+   _____  ______  _     _  _____  _    _    _______ ______ _____  _    _ _____
+   |    | |        \   /  |       |    |       |    |      |    | |\  /| |
+   |____| |____     \_/   |       |____|       |    |____  |____| | \/ | |___
+   |           |     |    |       |    |       |    |      |   \  |    |     |
+   |      _____|     |    |_____  |    |       |    |_____ |    \ |    | ____|
+                                                    {}
     '''.format(colored('Made By: Aidan Evans', color='green', attrs=['bold'])), 
         color='cyan', 
         attrs=['bold'])  #Prints Masthead
