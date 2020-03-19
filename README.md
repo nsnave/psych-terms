@@ -1,5 +1,6 @@
 # psych-terms
 **A search database of psychology terms and definitions from Myers Psychology 10th Edition.**
+
 (My vocabulary final project for my AP Psychology class)
 
 ## Overview
